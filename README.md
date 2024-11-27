@@ -2,6 +2,12 @@
 
 This project is a **ReactJS-based text editor** built with **Draft.js**, featuring custom formatting rules. The editor allows users to apply styles dynamically by typing specific characters at the beginning of a line, followed by a space.
 
+## Live Demo
+
+You can view the live demo of the project here:
+
+[Live Demo - Draft.js Editor](https://prabitha.info/editor/)
+
 ## Features
 
 - **Custom Formatting Rules:**
